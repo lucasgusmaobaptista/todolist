@@ -1,6 +1,6 @@
 package com.lucasgusmao.todosimple.models.user;
 
-import com.lucasgusmao.todosimple.Task;
+import com.lucasgusmao.todosimple.models.Task;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotEmpty;
 import jakarta.validation.constraints.NotNull;

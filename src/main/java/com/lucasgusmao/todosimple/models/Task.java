@@ -1,4 +1,4 @@
-package com.lucasgusmao.todosimple;
+package com.lucasgusmao.todosimple.models;
 
 import com.lucasgusmao.todosimple.models.user.User;
 import jakarta.persistence.*;
