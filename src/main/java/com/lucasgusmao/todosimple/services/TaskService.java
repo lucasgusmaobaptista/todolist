@@ -10,7 +10,7 @@ import org.springframework.transaction.annotation.Transactional;
 @Service
 public class TaskService {
 
-    private final UserService userService;
+    private UserService userService;
     private TaskRepository taskRepository;
     private UserRepository userRepository;
 
